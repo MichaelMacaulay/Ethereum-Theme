@@ -9,9 +9,9 @@ I'll be maintaining this when I have time, thanks for your understanding! ğŸ™ğŸ
 
 ### Solidity
 
-![Solidity screenshot]()
+![Solidity screenshot](https://github.com/MichaelMacaulay/Ethereum-Theme/blob/main/solidity1.PNG?raw=true)
 
 ### React
 
-![React screenshot]()
+![React screenshot](https://github.com/MichaelMacaulay/Ethereum-Theme/blob/main/react1.PNG?raw=true)
 
